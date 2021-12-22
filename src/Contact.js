@@ -13,7 +13,7 @@ const Contact = () => {
       <div className="flex w-full min-h-screen justify-center items-center">
         <div className="flex flex-col md:flex-row space-y-6 md:space-y-0 bg-white w-full max-w-4xl p-8 sm:p-12 rounded-xl shadow-lg text-white">
           <div className="bg-white rounded-xl shadow-xl p-8 text-gray-600 md:w-2/4">
-            <form action="" className="flex flex-col space-y-4 w-10/12">
+            <form action="" className="flex flex-col space-y-4 md:w-10/12">
               <h1 className="font-bold text-lg">Get in touch.</h1>
               <div>
                 <label htmlFor="" className="text-sm font-medium">
